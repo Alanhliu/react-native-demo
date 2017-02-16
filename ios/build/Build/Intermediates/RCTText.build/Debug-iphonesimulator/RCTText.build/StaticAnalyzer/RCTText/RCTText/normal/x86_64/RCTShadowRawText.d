@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/siasun/Developer/NavigatorDemo/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
+  /Users/siasun/Developer/NavigatorDemo/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/siasun/Developer/NavigatorDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h
